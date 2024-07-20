@@ -1,6 +1,6 @@
 # Project Landing Page Dicoding 🌱
 
-Ini bisa jadi latihan yang kedua setelah yang Halaman Profil Bandung kemarin, project ini membuat halaman landing dari Dicoding🍷
+Ini merupakan latihan yang kedua, dari yang sebelumnya latihan membuat halaman profil Kota Bandung. latihan ini saya beri nama **Project Landing Page Dicoding**. Pada project ini hanya membuat satu halaman tapi contoh kasus yang berbeda, yang mana pada project ini membuat halaman landing dari Dicoding🍷
 
 
 ...
